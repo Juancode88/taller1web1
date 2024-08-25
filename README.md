@@ -1,2 +1,2 @@
 # taller1web1
-Development class activity about basic algorithm with JS
+Development class activity about basic algorithms with JS
